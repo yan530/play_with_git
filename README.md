@@ -11,9 +11,7 @@ Fork it, play with it and improve it!
 # My Favorite cities
 
 * Ningbo
-
 * Kunming
-
 * Shanghai
 
 ## My favorite animals
